@@ -1,4 +1,4 @@
-# python-learn
+# Python Learn with data mining Twitter
 Project for study
 
 ## Dependencies:
